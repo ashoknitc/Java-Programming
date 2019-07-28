@@ -1,9 +1,9 @@
 
-public class DemoClass {
+public class CountOccuranceOfCharacter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("dome");
+		System.out.println("Demo");
 	}
 
 }
